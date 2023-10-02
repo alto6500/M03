@@ -37,6 +37,10 @@ public class SwitchMesesSemanas {
             case 'a':   
                 System.out.println("Abril");
                 break;
+            case 'D':
+            case 'd':
+                System.out.println("Diciembre");
+                break;
             default:
                 System.out.println("Latra NO valida");
         }
