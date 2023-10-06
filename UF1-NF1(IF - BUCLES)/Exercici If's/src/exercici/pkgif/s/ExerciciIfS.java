@@ -32,7 +32,7 @@ public class ExerciciIfS {
         else {
             augmento = ((sueldo*6)/100);
             sueldo2 = augmento + sueldo;}
-        System.out.println("Li pertoca un agment de sou de "+augmento + "euros");
+        System.out.println("Li pertoca un augment de sou de "+augmento + "euros");
         System.out.println("L'any següent tindra un sou de "+sueldo2 + "euros");    
                     }
         }
