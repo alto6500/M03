@@ -41,6 +41,16 @@ public class Exemple2DoWhile {
         end = true;}
         }
         
+         boolean boolean esSoleado = true;
+        // Usando un if para tomar decisiones basadas en el valor booleano
+        if (esSoleado) {
+            System.out.println("El día está soleado. ¡Sal a disfrutarlo!");
+        } else {
+            System.out.println("El día no está soleado. Puedes hacer otras actividades.");
+        }
     }
-    
 }
+
+
+    
+
