@@ -2,29 +2,21 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package ex.pkg9.bucles;
+package ex3.reforç;
 
 /**
  *
  * @author alto6500
  */
-public class Ex9Bucles {
+public class Ex3Reforç {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int num, suma;
-        for ( num = 1; num <= 10; num++) {
-        //num = num++;
-        System.out.println(""+num);
-        int suma = 0;
-        int prod = 1;
-        suma = suma+num++;
-        if (num==10){
-            System.out.println("Suma" + suma);}
-        }
+        for (int mult = 12; mult < 10; mult++) {
+        
         }
     }
-
-
+    
+}
